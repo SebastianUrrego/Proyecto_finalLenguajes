@@ -1,0 +1,4 @@
+X = [[1], [2], [3], [4], [5]];
+y = [[2.5, 4.2, 6.8, 7.9, 10.1]]; 
+
+linearRegression ejemplo = regress(X, y);

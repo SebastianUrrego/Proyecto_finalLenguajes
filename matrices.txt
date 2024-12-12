@@ -1,0 +1,14 @@
+matrixA = [[1, 2], [3, 4]];
+matrixB = [[5, 6], [7, 8]];
+matrixC = matrixA + matrixB
+matrixD = matrixA - matrixB
+matrixE = matrixA * matrixB
+matrixInverse = inverse(matrixA)
+matrixTranspose = transpose(matrixA)
+log(matrixC); 
+log(matrixD);
+log(matrixE);
+log(matrixInverse);
+log(matrixTranspose);
+
+

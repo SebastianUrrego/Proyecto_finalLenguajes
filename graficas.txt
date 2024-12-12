@@ -1,0 +1,7 @@
+plotPrimes(1, 100, 1);
+
+plot(x, sin(x), -2*pi, 2*pi, 0.01);
+plot(x, cos(x), -2*pi, 2*pi, 0.01);
+plot(x, tan(x), -2*pi, 2*pi, 0.01);
+
+

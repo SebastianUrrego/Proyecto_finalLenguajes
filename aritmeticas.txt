@@ -1,0 +1,16 @@
+log(10 + 20);
+log(50 - 15);
+log(-2 + 3);
+log(sqrt(-2));
+log(abs(-5));
+log(5 * 4);
+log(40 / 8);
+log(10 % 3);
+log(pow(2, 3));
+log(pow(9, 0.5));
+log(sin(pi / 2));
+log(cos(0));
+log(tan(pi / 4));
+log(1 / sin(pi / 2));
+log(1 / cos(0));
+log(1 / tan(pi / 4));
